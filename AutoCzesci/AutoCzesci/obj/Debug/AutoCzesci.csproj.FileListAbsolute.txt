@@ -1,0 +1,4 @@
+c:\users\daniel\documents\visual studio 2010\Projects\AutoCzesci\AutoCzesci\bin\AutoCzesci.dll
+c:\users\daniel\documents\visual studio 2010\Projects\AutoCzesci\AutoCzesci\bin\AutoCzesci.pdb
+c:\users\daniel\documents\visual studio 2010\Projects\AutoCzesci\AutoCzesci\obj\Debug\AutoCzesci.dll
+c:\users\daniel\documents\visual studio 2010\Projects\AutoCzesci\AutoCzesci\obj\Debug\AutoCzesci.pdb
